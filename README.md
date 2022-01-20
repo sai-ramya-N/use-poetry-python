@@ -38,6 +38,9 @@
 
     ```pwsh
     .\.venv\Scripts\Activate.ps1
+
+    # To Deactivate (after completing all the steps)
+    deactivate
     ```
 
 1. Install Poetry using pip inside activated virtual environment
